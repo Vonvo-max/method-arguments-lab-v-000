@@ -1,5 +1,3 @@
 def introduction (name, language)
-  puts "Hi, my name is #{name} and I am studying #{language}."
+  puts "Hi, my name is #{name}."
 end
-
-def introduction (max, ruby)
